@@ -35,5 +35,4 @@ class ExampleCPTPluginTest extends WP_UnitTestCase {
         $this->assertEquals('Test Value', $value);
     }
 
-    // Add more test cases with PHPDoc comments as needed
 }
